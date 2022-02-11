@@ -1,0 +1,98 @@
+/* #*/ export const PERSON = `
+# Any fields left unchanged, please delete so your resume is fully yours!
+
+name:
+  first: 윤
+  middle:
+  last: 천주
+about: Hi, my name is Yoon Chun Joo. I'm just about the most boring type of person you could
+       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
+       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
+position: Web Software Developer
+
+birth:
+  year: 1984
+  location: Dea Gu
+
+# you may add more experiences by duplicating the template
+
+experience:
+- company: Company A
+  position: Developer
+  timeperiod: since January 2016
+  description: Programming and watching cute cat videos.
+  website: https://example.com
+
+- company: Company B
+  position: Frontend Developer
+  timeperiod: January 2015 - December 2015
+  description: Fulfillment of extremely important tasks.
+
+- company: Company C
+  position: Trainee
+  timeperiod: March 2014 - December 2014
+  description: Making coffee and baking cookies.
+
+education:
+- degree: Master of Arts
+  timeperiod: March 2012 - December 2013
+  description: Major in Hacking and Computer Penetration, University A, New York, USA.
+  website: https://cj-project-vue.web.app/
+
+- degree: Bachelor of Science
+  timeperiod: March 2009 - December 2011
+  description: Major in Engineering, University B, Los Angeles, USA.
+
+# skill level goes from 0 to 100
+skills:
+- name: JAVA
+  level: 99
+- name: SPRING
+  level: 95
+- name: JavaScript
+  level: 80
+- name: TypeScript
+  level: 80
+- name: VUE.js
+  level: 80
+- name: Html
+  level: 70
+- name: Css
+  level: 70
+- name: Flutter
+  level: 70
+knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
+  (English and Klingon).
+
+projects:
+- name: best-resume-ever
+  platform: Vue, Java
+  timeperiod: February 2016
+  description: backend developer description
+  url: https://cj-project-vue.web.app/
+
+# optional, not all resume templates have hobbies included
+hobbies:
+- name: Video Games (PS5, nintendo)
+  iconClass: fa fa-gamepad
+  url: https://cj-project-vue.web.app/
+
+- name: Drawing
+  iconClass: fa fa-pencil
+  url: https://cj-project-vue.web.app/
+
+contributions:
+- name: best-resume-ever
+  description: backend developer description
+  url: https://cj-project-vue.web.app/
+
+contact:
+  email: epyon0@naver.com
+  phone: 010 4607 1130
+  street: 서울시 중구 청구로
+  city: 서울
+  website: https://cj-project-vue.web.app/
+  github:
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
+lang: ko
+`
