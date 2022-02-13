@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 import Resume from '@/pages/resume';
-import Home from '@/pages/home';
+import Home from '@/resumes/cool-rtl';
 
 Vue.use(Router);
 
