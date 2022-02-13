@@ -2,97 +2,89 @@
 # Any fields left unchanged, please delete so your resume is fully yours!
 
 name:
-  first: 윤
+  first: Jina
   middle:
-  last: 천주
-about: Hi, my name is Yoon Chun Joo. I'm just about the most boring type of person you could
+  last: Park
+about: Hi, my name is Jina Park. I'm just about the most boring type of person you could
        possibly imagine. I like collecting leaves from the tree in my back yard and documenting
        each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
 position: Web Software Developer
 
 birth:
-  year: 1984
-  location: Dea Gu
+  year: 1994
+  location: Republic of Korea
 
 # you may add more experiences by duplicating the template
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
-  website: https://example.com
+- company: (주)IEA
+  position: Backend Developer
+  timeperiod: August 2021 - December 2021
+  description: Wokred as a full stack developer
+#  website: https://example.com
 
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
-
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+- company: (주)HRINTRO
+  position: Backend Developer
+  timeperiod: December 2020 - August 2021
+  description:
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
-  website: https://cj-project-vue.web.app/
-
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+- degree: Bachelor's degree
+  timeperiod: March 2015 - August 2020
+  description: Major in Chinese & Financial Engineering, Sookmyung Womens University, Seoul, Republic of Korea
 
 # skill level goes from 0 to 100
 skills:
 - name: JAVA
-  level: 99
+  level: 50
 - name: SPRING
-  level: 95
+  level: 50
 - name: JavaScript
-  level: 80
-- name: TypeScript
-  level: 80
+  level: 30
 - name: VUE.js
-  level: 80
+  level: 40
 - name: Html
   level: 70
 - name: Css
   level: 70
-- name: Flutter
-  level: 70
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Klingon).
+- name: Go
+  level: 20
+#knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
+#  (English and Klingon).
 
 projects:
-- name: best-resume-ever
-  platform: Vue, Java
-  timeperiod: February 2016
-  description: backend developer description
-  url: https://cj-project-vue.web.app/
+- name: UCUBE 차세대 전사디지털채널
+  platform: Vue, Java , Spring Boot
+  timeperiod: 2021.09 - 2021.12
+  description: backend developer, frontend developer
+#  url: https://cj-project-vue.web.app/
+- name: 경기도청 조직관리시스템
+  platform: Java, eGov
+  timeperiod: 2020.12 - 2021.08
+  description: backend developer
 
 # optional, not all resume templates have hobbies included
-hobbies:
-- name: Video Games (PS5, nintendo)
-  iconClass: fa fa-gamepad
-  url: https://cj-project-vue.web.app/
+#hobbies:
+#- name: Video Games (PS5, nintendo)
+#  iconClass: fa fa-gamepad
+#  url: https://cj-project-vue.web.app/
 
-- name: Drawing
-  iconClass: fa fa-pencil
-  url: https://cj-project-vue.web.app/
+#- name: Drawing
+#  iconClass: fa fa-pencil
+#  url: https://cj-project-vue.web.app/
 
-contributions:
-- name: best-resume-ever
-  description: backend developer description
-  url: https://cj-project-vue.web.app/
+#contributions:
+#- name: best-resume-ever
+#  description: backend developer description
+#  url: https://cj-project-vue.web.app/
 
 contact:
-  email: epyon0@naver.com
-  phone: 010 4607 1130
-  street: 서울시 중구 청구로
-  city: 서울
-  website: https://cj-project-vue.web.app/
-  github:
+  email: tobecreative@kakao.com
+  phone: 010 3164 2102
+  street: 용인시 수풍로
+  city: 경기도
+  website:
+  github: https://github.com/88jina
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
 lang: ko
 `
